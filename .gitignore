@@ -5,3 +5,5 @@
 *.MF
 *.properties
 /sample/target/
+/webapp-jetty/target/
+/webapp-jetty/.settings/
